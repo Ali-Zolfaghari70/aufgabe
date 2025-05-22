@@ -1,0 +1,13 @@
+*.pdf
+*.html
+.idea/
+.vscode/
+.DS_Store
+/target/
+target/
+*.class
+logs/
+*.log
+src/main/resources/log4j2.xml
+*.iml
+.mvn/
